@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32fcd78-2252-4d35-a0ac-6c0632484f41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1_Graphs/7_BiconnectedComponents.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1_Graphs/8_MST.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1_Graphs/9_Dijkstra.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1_Graphs/10_BellmanFord.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3_Dynamic/0_LCS.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4_Sorting/0_Quick.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1_MinCutSquare.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2_HeapSort.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/3_KMP_Algo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/4_GraphCycle.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,11 +66,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9_Dijkstra.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/9_Dijkstra.py">
+      <file leaf-file-name="10_BellmanFord.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_Graphs/10_BellmanFord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0_LCS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_Dynamic/0_LCS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0_Quick.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_Sorting/0_Quick.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="48" column="71" lean-forward="false" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -118,6 +134,9 @@
         <option value="$PROJECT_DIR$/1_Graphs/7_BiconnectedComponents.py" />
         <option value="$PROJECT_DIR$/1_Graphs/8_MST.py" />
         <option value="$PROJECT_DIR$/9_Dijkstra.py" />
+        <option value="$PROJECT_DIR$/1_Graphs/10_BellmanFord.py" />
+        <option value="$PROJECT_DIR$/3_Dynamic/0_LCS.py" />
+        <option value="$PROJECT_DIR$/4_Sorting/0_Quick.py" />
       </list>
     </option>
   </component>
@@ -159,11 +178,6 @@
             <path>
               <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="1_Graphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
               <item name="2_Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -195,38 +209,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9_Dijkstra">
-    <configuration name="5_LongestPath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.0_Quick">
+    <configuration name="0_Quick" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="C:\Users\john\Desktop\Google_Interview\1_Graphs\5_LongestPath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Sorting/0_Quick.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="6_Bipartite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_BellmanFord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="C:\Users\john\Desktop\Google_Interview\1_Graphs\6_Bipartite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Graphs/10_BellmanFord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,19 +301,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5_LongestPath" />
-      <item index="1" class="java.lang.String" itemvalue="Python.6_Bipartite" />
-      <item index="2" class="java.lang.String" itemvalue="Python.7_BiconnectedComponents" />
-      <item index="3" class="java.lang.String" itemvalue="Python.8_MST" />
-      <item index="4" class="java.lang.String" itemvalue="Python.9_Dijkstra" />
+      <item index="0" class="java.lang.String" itemvalue="Python.7_BiconnectedComponents" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8_MST" />
+      <item index="2" class="java.lang.String" itemvalue="Python.9_Dijkstra" />
+      <item index="3" class="java.lang.String" itemvalue="Python.10_BellmanFord" />
+      <item index="4" class="java.lang.String" itemvalue="Python.0_Quick" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.9_Dijkstra" />
-        <item index="1" class="java.lang.String" itemvalue="Python.8_MST" />
-        <item index="2" class="java.lang.String" itemvalue="Python.7_BiconnectedComponents" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6_Bipartite" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5_LongestPath" />
+        <item index="0" class="java.lang.String" itemvalue="Python.0_Quick" />
+        <item index="1" class="java.lang.String" itemvalue="Python.10_BellmanFord" />
+        <item index="2" class="java.lang.String" itemvalue="Python.9_Dijkstra" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8_MST" />
+        <item index="4" class="java.lang.String" itemvalue="Python.7_BiconnectedComponents" />
       </list>
     </recent_temporary>
   </component>
@@ -464,6 +478,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1_Graphs/9_Dijkstra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_Graphs/8_MST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -472,10 +494,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Graphs/9_Dijkstra.py">
+    <entry file="file://$PROJECT_DIR$/1_Graphs/10_BellmanFord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Dynamic/0_LCS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Sorting/0_Quick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="48" column="71" lean-forward="false" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
           <folding />
         </state>
       </provider>
