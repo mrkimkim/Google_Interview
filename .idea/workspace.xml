@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32fcd78-2252-4d35-a0ac-6c0632484f41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1_Graphs/10_BellmanFord.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3_Dynamic/0_LCS.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/4_Sorting/0_Quick.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/5_Math/0_ConvexHull.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/5_Math/1_GCD.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/5_Math/2_SegmentSeive.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,66 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4_GraphCycle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/4_GraphCycle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5_LongestPath.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/5_LongestPath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6_Bipartite.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/6_Bipartite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7_BiconnectedComponents.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/7_BiconnectedComponents.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1863">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_MST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/8_MST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="30" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10_BellmanFord.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Graphs/10_BellmanFord.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="0_LCS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_Dynamic/0_LCS.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,21 +26,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0_Quick.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0_Quick.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Sorting/0_Quick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="48" column="71" lean-forward="false" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5_FactoryMethod.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0_DesignPattern/5_FactoryMethod.py">
+      <file leaf-file-name="0_ConvexHull.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_Math/0_ConvexHull.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_GCD.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_Math/1_GCD.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_SegmentSeive.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_Math/2_SegmentSeive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -137,6 +97,9 @@
         <option value="$PROJECT_DIR$/1_Graphs/10_BellmanFord.py" />
         <option value="$PROJECT_DIR$/3_Dynamic/0_LCS.py" />
         <option value="$PROJECT_DIR$/4_Sorting/0_Quick.py" />
+        <option value="$PROJECT_DIR$/5_Math/0_ConvexHull.py" />
+        <option value="$PROJECT_DIR$/5_Math/1_GCD.py" />
+        <option value="$PROJECT_DIR$/5_Math/2_SegmentSeive.py" />
       </list>
     </option>
   </component>
@@ -180,6 +143,11 @@
               <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
               <item name="2_Strings" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="5_Math" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -209,7 +177,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0_Quick">
+  <component name="RunManager" selected="Python.2_SegmentSeive">
+    <configuration name="0_ConvexHull" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Geeks" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Math/0_ConvexHull.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="0_Quick" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,74 +232,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="7_BiconnectedComponents" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Graphs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Graphs/7_BiconnectedComponents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Math/1_GCD.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="8_MST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_SegmentSeive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Graphs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Graphs/8_MST.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="9_Dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="C:\Users\john\Desktop\Google_Interview\1_Graphs\9_Dijkstra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Math/2_SegmentSeive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.7_BiconnectedComponents" />
-      <item index="1" class="java.lang.String" itemvalue="Python.8_MST" />
-      <item index="2" class="java.lang.String" itemvalue="Python.9_Dijkstra" />
-      <item index="3" class="java.lang.String" itemvalue="Python.10_BellmanFord" />
-      <item index="4" class="java.lang.String" itemvalue="Python.0_Quick" />
+      <item index="0" class="java.lang.String" itemvalue="Python.10_BellmanFord" />
+      <item index="1" class="java.lang.String" itemvalue="Python.0_Quick" />
+      <item index="2" class="java.lang.String" itemvalue="Python.0_ConvexHull" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1_GCD" />
+      <item index="4" class="java.lang.String" itemvalue="Python.2_SegmentSeive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.0_Quick" />
-        <item index="1" class="java.lang.String" itemvalue="Python.10_BellmanFord" />
-        <item index="2" class="java.lang.String" itemvalue="Python.9_Dijkstra" />
-        <item index="3" class="java.lang.String" itemvalue="Python.8_MST" />
-        <item index="4" class="java.lang.String" itemvalue="Python.7_BiconnectedComponents" />
+        <item index="0" class="java.lang.String" itemvalue="Python.2_SegmentSeive" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1_GCD" />
+        <item index="2" class="java.lang.String" itemvalue="Python.0_ConvexHull" />
+        <item index="3" class="java.lang.String" itemvalue="Python.0_Quick" />
+        <item index="4" class="java.lang.String" itemvalue="Python.10_BellmanFord" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +307,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -462,14 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0_DesignPattern/5_FactoryMethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_Graphs/7_BiconnectedComponents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1863">
@@ -512,8 +472,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Sorting/0_Quick.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="48" column="71" lean-forward="false" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_DesignPattern/5_FactoryMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Math/0_ConvexHull.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Math/1_GCD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Math/2_SegmentSeive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding />
         </state>
       </provider>
