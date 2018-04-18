@@ -50,8 +50,8 @@ class ConnectedGraph:
             # Pick Up Minimum Edge
             edge = Q.get()
             u, v, w = edge[1], edge[2], edge[0]
-            print (u, v, w)
             if not self.MST[v]:
+                print(u, v, w)
                 self.MST[v] = True
                 self.Dist[v] = w
                 MST_SIZE += 1
@@ -117,6 +117,7 @@ G.addEdge(1, 4, 5)
 G.addEdge(2, 4, 7)
 
 G.Prim()
+print ("===")
 G.Kruskal()
 
 

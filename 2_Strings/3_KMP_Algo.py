@@ -22,6 +22,8 @@ def getLPS(Str):
             Len, lps[i] = 0, 0
     return lps
 
+print (getLPS("abcabcabcabcabcabcabcabc"))
+
 # 매칭을 수행한다
 def KMP(A, B):
     lps = getLPS(B)

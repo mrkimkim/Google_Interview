@@ -18,6 +18,11 @@ class Line:
         self.p = p
         self.q = q
 
+"""
+p2.x - p1.x     p2.y - p1.y
+p3.x - p2.x     p3.y - p2.y
+"""
+
 # https://www.geeksforgeeks.org/orientation-3-ordered-points/
 def orientation(p1, p2, p3):
     val = (p2.y - p1.y) * (p3.x - p2.x) - (p3.y - p2.y) * (p2.x - p1.x)
@@ -98,7 +103,7 @@ def ConvexHull2(P):
     # Python 3.5의 커스텀 정렬함수 사용법
     sorted(P, key=functools.cmp_to_key(compare))
 
-    # 같은 각도를 가지는 점 중 제일 작은 것만 남긴다.
+    # 같은 각도를 가지는 점 중 제일 멀리있는 점만 남긴다.
     size = 1
     for i in range(1, N):
         while i < N - 1 and orientation(P[0], P[i], P[i+1]) == 0:
