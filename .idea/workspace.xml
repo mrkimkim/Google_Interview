@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32fcd78-2252-4d35-a0ac-6c0632484f41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/5_Math/3_LucasTheorem.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6_BitManipulation/0_MaximumSubarrayXOR.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6_BitManipulation/1_Simples.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Topcoder.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/Geeks.iml" afterPath="$PROJECT_DIR$/.idea/Geeks.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7_Dynamic/0_MinMaxValueExpression.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7_Dynamic/1_EditDist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7_Dynamic/2_BinomialCoefficient.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7_Dynamic/3_LongestPalindromicSubsequence.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1_Graphs/8_MST.py" afterPath="$PROJECT_DIR$/1_Graphs/8_MST.py" />
-      <change beforePath="$PROJECT_DIR$/2_Strings/3_KMP_Algo.py" afterPath="$PROJECT_DIR$/2_Strings/3_KMP_Algo.py" />
-      <change beforePath="$PROJECT_DIR$/5_Math/0_ConvexHull.py" afterPath="$PROJECT_DIR$/5_Math/0_ConvexHull.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,26 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="0_LCS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_Dynamic/0_LCS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0_ConvexHull.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_Math/0_ConvexHull.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="1_GCD.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5_Math/1_GCD.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,18 +60,58 @@
       <file leaf-file-name="1_Simples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6_BitManipulation/1_Simples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Topcoder.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Topcoder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Topcoder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="418">
+              <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0_MinMaxValueExpression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7_Dynamic/0_MinMaxValueExpression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_EditDist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7_Dynamic/1_EditDist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_BinomialCoefficient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7_Dynamic/2_BinomialCoefficient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_LongestPalindromicSubsequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7_Dynamic/3_LongestPalindromicSubsequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -141,6 +156,10 @@
         <option value="$PROJECT_DIR$/6_BitManipulation/0_MaximumSubarrayXOR.py" />
         <option value="$PROJECT_DIR$/6_BitManipulation/1_Simples.py" />
         <option value="$PROJECT_DIR$/Topcoder.py" />
+        <option value="$PROJECT_DIR$/7_Dynamic/0_MinMaxValueExpression.py" />
+        <option value="$PROJECT_DIR$/7_Dynamic/1_EditDist.py" />
+        <option value="$PROJECT_DIR$/7_Dynamic/2_BinomialCoefficient.py" />
+        <option value="$PROJECT_DIR$/7_Dynamic/3_LongestPalindromicSubsequence.py" />
       </list>
     </option>
   </component>
@@ -165,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,53 +194,19 @@
             <path>
               <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="0_DesignPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="1_Graphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="2_Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
               <item name="3_Dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="4_Sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="5_Math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="6_BitManipulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Google_Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google_Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="Knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="7_Dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,74 +232,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Topcoder">
-    <configuration name="0_ConvexHull" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3_LongestPalindromicSubsequence">
+    <configuration name="0_MinMaxValueExpression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_Dynamic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Math/0_ConvexHull.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Dynamic/0_MinMaxValueExpression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="0_MaximumSubarrayXOR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_EditDist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_BitManipulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_Dynamic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_BitManipulation/0_MaximumSubarrayXOR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Dynamic/1_EditDist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_BinomialCoefficient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_Dynamic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Math/1_GCD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Dynamic/2_BinomialCoefficient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="2_SegmentSeive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_LongestPalindromicSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_Dynamic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Geeks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Math/2_SegmentSeive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Dynamic/3_LongestPalindromicSubsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,19 +324,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.0_ConvexHull" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1_GCD" />
-      <item index="2" class="java.lang.String" itemvalue="Python.2_SegmentSeive" />
-      <item index="3" class="java.lang.String" itemvalue="Python.0_MaximumSubarrayXOR" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Topcoder" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Topcoder" />
+      <item index="1" class="java.lang.String" itemvalue="Python.0_MinMaxValueExpression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1_EditDist" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2_BinomialCoefficient" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3_LongestPalindromicSubsequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Topcoder" />
-        <item index="1" class="java.lang.String" itemvalue="Python.0_MaximumSubarrayXOR" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2_SegmentSeive" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1_GCD" />
-        <item index="4" class="java.lang.String" itemvalue="Python.0_ConvexHull" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3_LongestPalindromicSubsequence" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2_BinomialCoefficient" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1_EditDist" />
+        <item index="3" class="java.lang.String" itemvalue="Python.0_MinMaxValueExpression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Topcoder" />
       </list>
     </recent_temporary>
   </component>
@@ -374,8 +358,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -385,7 +370,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39852008" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -421,15 +406,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/7_Dynamic/2_BinomialCoefficient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Dynamic/3_LongestPalindromicSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3_Dynamic/0_LCS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,18 +740,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6_BitManipulation/1_Simples.py">
+    <entry file="file://$PROJECT_DIR$/Topcoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        <state relative-caret-position="418">
+          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Topcoder.py">
+    <entry file="file://$PROJECT_DIR$/6_BitManipulation/1_Simples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Dynamic/0_MinMaxValueExpression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Dynamic/1_EditDist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Dynamic/2_BinomialCoefficient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Dynamic/3_LongestPalindromicSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
